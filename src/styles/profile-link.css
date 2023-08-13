@@ -1,0 +1,15 @@
+.profile-link {
+    padding: 1.2rem 1.1rem;
+    background-color: #ddd;
+    border-radius: .4rem;
+    border: none;
+    margin: 1.5rem .8rem .7rem .8rem;
+    font-size: .7rem;
+    text-align: center;
+    font-weight: 300;
+    cursor: pointer;
+}
+
+.profile-link:hover {
+    transform: scale(1.02);
+}
